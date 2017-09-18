@@ -11,7 +11,7 @@ setup(
     name="utcdtw-cffi",
     version="0.1",
     description="CFFI binding for UTC DTW suite",
-    long_description=open("README.rst", "rt").read(),
+    long_description=open("README.md", "rt").read(),
     url="utcdtw-cffi.local",
     author="Dimitri Vorona",
     author_email="vorona@in.tum.de",

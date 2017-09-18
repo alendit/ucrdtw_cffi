@@ -8,9 +8,11 @@ C implementation from [libdtw](https://github.com/b/libdtw).
 Interface and tests from https://github.com/klon/ucrdtw/.
 
 ### Requirements
+
 Python 2.7+ or 3.3+, numpy 1.8+
 
 ### Usage
+
 ```
 from ucrdtw_cffi import dtw_query
 import numpy as np
